@@ -1,0 +1,63 @@
+html, body
+{
+	height: 100%;
+	width: 100%;
+}
+header {background-color: #999999}
+footer {background-color: #888888}
+main {background-color: #888888}
+body {background-color: #DDDDDD}
+table {background-color: #111111}
+
+#Krak {background-color: #666666}
+
+.menu li
+{
+	list-style: none;
+	display: inline-block;
+	padding: 15px 40px;
+}
+.menu a
+{
+	text-decoration: none;
+	color: #111111;
+	font-size: 2.5em;
+}
+.menu a:hover
+{
+	color: lightgrey;
+	font-size: 2.6em;
+}
+
+/*footer*/
+footer
+{
+	width: 100%;
+	background-color: grey;
+	text-allign: center;
+}
+footer p
+{
+	margin: 0;
+	padding: 17px;
+}
+body 
+{
+	background-color: darkgrey;
+}
+h1
+{
+	text-allign: center;
+}
+img 
+{
+	width:700px;
+}
+table, tr, td, th
+{
+	border:1px solid darkgrey;
+	background-color: lightgrey;
+}
+.text-center {
+	text-align:center;
+}
