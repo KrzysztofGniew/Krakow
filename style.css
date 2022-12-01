@@ -61,3 +61,22 @@ table, tr, td, th
 .text-center {
 	text-align:center;
 }
+
+.form-group
+{
+	padding: 10px;
+	width: 255px;
+	margin: auto;
+	text-align: left;
+}
+
+.form-group label
+{
+	display: block;
+	padding-bottom: 5px;
+}
+
+.form-group label.gender
+{
+	display: inline;
+}
